@@ -40,13 +40,13 @@ const questions = [
     {
         type: "input",
         message: "Enter the usage of the project: ",
-        name: "usage"
+        name: "usageAlt"
 
     },
     {
         type: "input",
         message: "Enter the link for your demo: ",
-        name: "demo"
+        name: "usageDemo"
 
     },
     {

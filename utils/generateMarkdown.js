@@ -52,7 +52,7 @@ ${data.installation}
 # Description
 ${data.description}
 # Usage
-${data.usage}[(${data.demo})]
+[${data.usageAlt}](${data.usageDemo})
 # License
 ${data.licenses}
 # Contributions
