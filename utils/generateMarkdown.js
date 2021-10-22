@@ -40,16 +40,19 @@ return `
   ${licenseBadge}
 # Tables of Contents
 * [Installation](#installation)
+* [Description](#description)
 * [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
+* [License](#licenses)
+* [Contributing](#contributions)
 * [Tests](#tests)
 * [Questions](#questions)
 * [Credits](#credits)
 # Installation
 ${data.installation}
+# Description
+${data.description}
 # Usage
-${data.usages}
+${data.usage}[(${data.demo})]
 # License
 ${data.licenses}
 # Contributions
@@ -59,7 +62,7 @@ ${data.tests}
 # Questions
 If you have any questions, please e-mail me at ${data.email}.
 # Credits
-Github: [${data.username}]
+Github: [${data.username}](https://github.com/${data.username}/)
 Copyright ${data.name}. All Rights Reserved.
 
 `;

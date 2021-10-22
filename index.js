@@ -45,6 +45,12 @@ const questions = [
     },
     {
         type: "input",
+        message: "Enter the link for your demo: ",
+        name: "demo"
+
+    },
+    {
+        type: "input",
         message: "Enter contribution guidelines: ",
         name: "contribute"
 
